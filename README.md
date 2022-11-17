@@ -14,7 +14,6 @@ Java es mi primer idioma, aunque actualmente me estoy adentrando en Azure.
 
 :apple: mentalidad de principiante (**abierto al aprendizaje**)
 
-:sparkles: Niño de corazón (**veo el mundo como mágico**)
 
 
 >*Olvida las razones de por qué no funcionará y cree en la única razón por la que lo hará*
