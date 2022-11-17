@@ -8,7 +8,7 @@ Me defino como una apasionada de la economía y las nuevas tecnologías, con gan
 Java es mi primer idioma, aunque actualmente me estoy adentrando en Azure. 
 ¿Me acompañas en mi viaje de aprendizaje? 
 
-## Más sobre mí:mujer:
+## Más sobre mi 👩
 
 :purple_heart: La gente amable es mi tipo de gente.
 
